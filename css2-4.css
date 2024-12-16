@@ -4,8 +4,28 @@
     box-sizing: border-box;
 }
 
+#history_box {
+    width: 1, 400px;
+    height: 674px;
+
+    background-color: #380054;
+    display: inline-block;
+    margin: 0 auto;
+}
+
 img {
-    width: 50px;
+    width: 100%;
+    border-radius: 33.19px;
+}
+
+
+
+#history_p {
+    width: 100%;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 44.45;
+
 }
 
 /* meore diviii*/
@@ -124,7 +144,7 @@ h1 {
     margin-bottom: 24px;
 }
 
-#more_pp {
+#radio_p {
     color: #1b003d;
     width: 338px;
     font-weight: 400;
@@ -134,7 +154,7 @@ h1 {
 
 #yess {
     color: #6d5f8b;
-    width: 22px;
+    width: 100%;
     font-weight: 400;
     font-size: 14px;
     line-height: 22px;
