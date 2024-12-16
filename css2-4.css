@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 50px;
+}
+
+/* meore diviii*/
+#pirveli_box {
+    width: 1137px;
+    margin-top: 115px;
+    border-radius: 24px;
+    background-color: #EBF8FE;
+    padding: 40px 32px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 60px;
+    initial-letter: -2%;
+    text-align: center;
+    color: #181d27;
+    margin-bottom: 24px;
+}
+
+#pirveli_p {
+    color: #535862;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    margin-bottom: 24px;
+    padding: 14px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#pirveli_button {
+    border-color: #FFFFFF;
+    background-color: #007CB8;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#email_conteiner {
+    width: 500px;
+    height: 74px;
+    gap: 8px;
+    margin: 0 auto;
+}
+
+#pirveli_email {
+    width: 345px;
+    height: 48px;
+    color: #717680;
+    border-color: #d5d7da;
+    padding: 12px 14px;
+    border-style: 1px;
+    border-radius: 8px;
+    margin-right: 24px;
+}
+
+#pirveli_button {
+    background-color: #007cb8;
+    color: #FFFFFF;
+    width: 119px;
+    height: 48px;
+    border-radius: 8px;
+    padding: 12px 18px;
+}
+
+#email_under {
+    color: #535862;
+    font-weight: 400;
+}
+
+/* mesameeee*/
+
+#meore_box {
+    background-color: #EBF8FE;
+    width: 546px;
+    padding: 40px 32px;
+    border-radius: 24px;
+    margin: 0 auto;
+    margin-top: 72px;
+}
+
+#meore_h {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+    color: #181D27;
+    margin-bottom: 24px;
+}
+
+#meore_div {
+    color: #1b003d;
+    width: 482px;
+}
+
+#name {
+    border-radius: 8px;
+    color: #6d5f8b;
+    border-color: #380054;
+    display: block;
+    width: 100%;
+    padding: 8px 16px;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+
+#emaill {
+    border-radius: 8px;
+    color: #6d5f8b;
+    border-color: #380054;
+    display: block;
+    width: 100%;
+    padding: 8px 16px;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+
+#more_pp {
+    color: #1b003d;
+    width: 338px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+#yess {
+    color: #6d5f8b;
+    width: 22px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+
+}
