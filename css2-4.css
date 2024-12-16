@@ -7,25 +7,15 @@
 #history_box {
     width: 1, 400px;
     height: 674px;
-
-    background-color: #380054;
+    border-radius: 33.2px;
+    background-color: #007cb8;
     display: inline-block;
-    margin: 0 auto;
+    margin-bottom: 115px;
 }
 
 img {
     width: 100%;
-    border-radius: 33.19px;
-}
-
-
-
-#history_p {
-    width: 100%;
-    color: #FFFFFF;
-    font-weight: 400;
-    font-size: 44.45;
-
+    border-radius: 33.2px;
 }
 
 /* meore diviii*/
@@ -152,11 +142,27 @@ h1 {
     line-height: 18px;
 }
 
-#yess {
+#radio_p {
     color: #6d5f8b;
-    width: 100%;
+}
+
+#meore_radio {
+    color: #6d5f8b;
     font-weight: 400;
     font-size: 14px;
     line-height: 22px;
+    margin-top: 24px;
+}
 
+
+#checkbox_pp {
+    color: #1b003d;
+}
+
+#meore_checkbox {
+    color: #6d5f8b;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    margin-top: 24px;
 }
