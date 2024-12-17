@@ -8,9 +8,12 @@
     width: 1, 400px;
     height: 674px;
     border-radius: 33.2px;
-    background-color: #007cb8;
     display: inline-block;
     margin-bottom: 115px;
+    margin-top: 156px;
+    margin-bottom: 115px;
+    margin-left: 260px;
+    margin-right: 260px;
 }
 
 img {
@@ -21,7 +24,6 @@ img {
 /* meore diviii*/
 #pirveli_box {
     width: 1137px;
-    margin-top: 115px;
     border-radius: 24px;
     background-color: #EBF8FE;
     padding: 40px 32px;
